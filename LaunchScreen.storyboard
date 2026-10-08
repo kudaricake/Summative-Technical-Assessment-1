@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21500" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
-    <scenes>
-        <scene sceneID="LS-1"><objects><viewController id="LaunchVC" sceneMemberID="viewController"><view key="view" contentMode="scaleToFill" id="LaunchView"><rect key="frame" x="0.0" y="0.0" width="390" height="844"/><subviews><label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="ClubConnect" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="LaunchLabel"><rect key="frame" x="0.0" y="400" width="390" height="44"/><fontDescription key="fontDescription" type="boldSystem" pointSize="30"/></label></subviews><color key="backgroundColor" systemColor="systemBackgroundColor"/><constraints><constraint firstItem="LaunchLabel" firstAttribute="centerX" secondItem="LaunchView" secondAttribute="centerX" id="l1"/><constraint firstItem="LaunchLabel" firstAttribute="centerY" secondItem="LaunchView" secondAttribute="centerY" id="l2"/></constraints></view></viewController></objects></scene>
-    </scenes>
-</document>
